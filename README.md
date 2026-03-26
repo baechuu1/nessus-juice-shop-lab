@@ -6,6 +6,11 @@
 
 This project demonstrates a basic vulnerability assessment workflow using Nessus against OWASP Juice Shop in a local lab environment.
 
+## Lab Setup
+- Host machine: Windows
+- Vulnerable target: OWASP Juice Shop
+- Deployment method: Docker
+- Application URL: http://localhost:3000
 
 
 \## Objectives
