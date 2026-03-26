@@ -39,6 +39,17 @@ This project demonstrates a vulnerability assessment workflow using Nessus again
 - Strong encryption (AES-GCM, TLS 1.2/1.3) is supported
 - Demonstrates proper cryptographic configuration despite trust issues
 
+nessus-juice-shop-lab/
+├── README.md
+├── screenshots/
+├── reports/
+├── notes/
+└── remediation/
+
+
+## Disclaimer
+This project was conducted in an authorized local lab environment for educational purposes only.
+
 ## Observations
 The scan produced primarily informational findings with one medium-severity issue. This reflects a realistic scenario where vulnerability scans generate large volumes of low-severity data that require analysis and prioritization.
 
