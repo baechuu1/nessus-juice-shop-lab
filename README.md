@@ -25,6 +25,20 @@ This project demonstrates a vulnerability assessment workflow using Nessus again
 5. Validated select findings manually
 6. Documented remediation recommendations
 
+## Screenshots
+
+### OWASP Juice Shop Running
+![docker_running](screenshots/docker-ps.png)
+
+### Nessus Scan Summary
+![Scan Summary](screenshots/scan-summary.png)
+
+### Vulnerability List
+![Vulnerabilities](screenshots/vulnerability-list.png)
+
+### Example Finding
+![Finding](screenshots/findings-1.png)
+
 ## Key Findings
 
 ### 1. SSL Certificate Cannot Be Trusted (Medium)
